@@ -1,2 +1,2 @@
 # AplikasiPertambahanDuaAngka
- Latihan 1 - Muhammad Husnu Elwafa (2210010318)
+ Latihan 1 - Nur Yoga Andika (2210010652)
