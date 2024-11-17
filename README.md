@@ -6,25 +6,48 @@
 
 ### 👨‍💻 Tentang Saya:
 - **Nama**: Nur Yoga Andika
-- 💡 Saya seorang [deskripsi pekerjaan atau minat] yang tertarik pada [sebutkan keahlian atau topik yang ditekuni].
-- 📚 Saat ini saya sedang belajar dan berkembang di bidang [sebutkan bidang terkait, misalnya teknologi, pengembangan perangkat lunak, dsb.].
+- **NPM**: 2210010652
+- 💡 Saya seorang [Mahasiswa] Jurusan [Teknologi Informasi].
+dsb.].
 - 🌱 Saya selalu mencari cara untuk terus berkembang dan belajar hal baru.
 
 ### 💬 Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi lebih lanjut tentang proyek ini atau apapun yang berkaitan dengan topik saya!
 
 ---
 
-## Fitur Proyek:
-- [Deskripsi fitur utama proyek ini]
-- [Fitur lainnya]
-- [Fitur tambahan]
+## Deskripsi Program:
+• Pengguna memasukkan dua angka
+• Saat tombol Tambah diklik akan menampilkan hasil pertambahan
+• Saat tombol Hapus diklik akan menghapus nilai di TextField dan
+mengarahkan fokus ke TextField angka pertama
+• Saat tombol Keluar diklik akan keluar dari aplikasi
 
 ---
 
-## Cara Menjalankan Proyek Ini
+## Komponen GUI: 
+-JFrame 
+-JPanel
+-JLabel
+-JTextField
+-JButton
 
-Berikut adalah cara untuk menjalankan proyek ini di sistem Anda:
+--
 
-1. **Clone repository**:
-   ```bash
-   git clone https://github.com/username/proyek-anda.git
+## Logika Program: 
+-Penambahan dua angka
+-validasi input numerik
+
+--
+
+## Events:
+• ActionListener untuk tombol Tambah 
+• ActionListener untuk tombol Hapus
+• ActionListener untuk tombol Keluar
+
+--
+
+## Variasi:
+• KeyAdapter pada JTextField untuk membatasi input hanya angka
+• Gunakan JOptionPane untuk menampilkan error input
+• Implementasikan FocusListener untuk membersihkan JTextField
+saat mendapatkan fokus.
