@@ -1,57 +1,30 @@
-# Profile of Nur Yoga Andika
+# Selamat Datang di Proyek Ini!
 
-Welcome to my GitHub profile! 🚀
+## Tentang Saya
 
-## About Me
+👋 Halo! Nama saya **Nur Yoga Andika**, dan saya senang bisa berbagi proyek ini dengan Anda!
 
-👨‍💻 **Name:** Nur Yoga Andika  
-🎓 **Education:** [Your Educational Details]  
-🌍 **Location:** [Your Location]  
-🛠️ **Skills:** [Your Skills]  
-📚 **Current Projects:** [Your Current Projects]  
-📝 **Interests:** [Your Interests]
+### 👨‍💻 Tentang Saya:
+- **Nama**: Nur Yoga Andika
+- 💡 Saya seorang [deskripsi pekerjaan atau minat] yang tertarik pada [sebutkan keahlian atau topik yang ditekuni].
+- 📚 Saat ini saya sedang belajar dan berkembang di bidang [sebutkan bidang terkait, misalnya teknologi, pengembangan perangkat lunak, dsb.].
+- 🌱 Saya selalu mencari cara untuk terus berkembang dan belajar hal baru.
 
----
-
-## 🚀 Let's Connect
-
-Feel free to reach out to me through my links below:
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Email](Your Email Address)
+### 💬 Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi lebih lanjut tentang proyek ini atau apapun yang berkaitan dengan topik saya!
 
 ---
 
-## 🎯 My Mission
-
-I’m passionate about [Your Passion] and focused on making an impact in the world of [Your Field]. I love learning new technologies, sharing knowledge, and collaborating on innovative projects.
-
----
-
-## 💻 Technologies I Use
-
-- 🔧 **Programming Languages:** Python, JavaScript, Java, C++, [Your Other Languages]
-- ⚙️ **Tools & Frameworks:** React, Node.js, Docker, [Your Other Tools]
+## Fitur Proyek:
+- [Deskripsi fitur utama proyek ini]
+- [Fitur lainnya]
+- [Fitur tambahan]
 
 ---
 
-## 🌱 Recent Work
+## Cara Menjalankan Proyek Ini
 
-- [Project Name](link_to_project) - Description of the project.
-- [Project Name](link_to_project) - Description of the project.
+Berikut adalah cara untuk menjalankan proyek ini di sistem Anda:
 
----
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🔗 GitHub Repositories
-
-- [Repository 1](link_to_repo) - Brief description of the repo.
-- [Repository 2](link_to_repo) - Brief description of the repo.
-
-Thanks for visiting my profile! ✨
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/username/proyek-anda.git
