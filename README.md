@@ -76,5 +76,4 @@ Berikut adalah komponen yang digunakan dalam proyek ini:
 
 ---
 
-## 📂 Struktur Proyek
 
